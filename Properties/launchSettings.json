@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "af_tf_linux": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7133",
+      "launchBrowser": false
+    }
+  }
+}
